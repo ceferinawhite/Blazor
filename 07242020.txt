@@ -1,0 +1,127 @@
+
+
+
+Victoria Vo - Meeting 7/24
+--------------------------
+How are things? Doing well, inductive process. Team is helpful always answering questions. Using JiRA and TEAMS. 
+
+Have yu figured out a workflow? Getting into the routine with exposure from college.
+
+Hows WFH? Being available for the team, no after hours.
+
+Carole - do the Luncheon for CA... COOL and FUN
+
+Victoria feels it would be cool to know the team as well during these fun activities.
+
+Daily stand up calls are in the morning... Except Pranav she meets all the other members
+
+What is your main focus with the team/project?
+- Victoria was trying to determine her role over the months, she organizes tickets, creating tickets, preparing scope documents, use cases
+
+UNDERSTANDING which areas she should take initiatives in? --- She was asked to ensure team members stay within 1 minute and in focus.
+
+She reports to Nancy. Carole suggested to ask for feedback on actions taken. 
+
+Stephanie suggested to DRAW OUT IDEAS and PRESENT TO NANCY. If you feel comfortable to reach out to OP, we would help coordinate. Carole asked if stephanie could reach out? Victoria is open to feedback
+
+Has Fabian reach out? Vic met Fabian and Siva during induction. 
+
+New template was in the process for Vistori. Stephanie will check for an update next week.
+
+Some days she does not have any tasks. Stephanie suggested to reach out to Nancy and ask if you could help? Vic said she did not think it would be appropriate... Carole sugested it shows initiative
+
+- ANy Questions, dont feel shy to reach out. If you are planning on vacatons, get Manager's approval. Email, screen in writing. 
+
+--------------
+Monthly 
+- TAT Recs - ReqDate - AMSub - 
+- AMSUB, CSUB, TAT, OFFER, START (All Recruiters)
+- Consolidated Chart for Year - 
+- Coverage by teams 
+- Avg TAT by client
+
+- AMSub vs CSub by teams (All Recruiters)
+- Number of Hires by Reqs Open.
+- 
+
+=======================7/27/2020==========================
+Kevin
+-------
+Doing alright, it's pretty much the same
+- Are you going back in Sept? He heard of something like end of this year, not sure
+- Remote: Biggest hurdle? Feels the same as working in office
+- How's Vic doing? Only contact with Vic is during stand ups, and when she asks to explain the dealer process.
+- How many dealers? They have 5 dealer providers that provide online services to dealerships, CT connects with the Dealer providers to get the data on dealer appointments
+- Since last time, they have been maintaining it bugs reports 
+- Have you started CPT? Not yet working on mapping list of dealerships, its taking a lot longer. Prepare a script and send to their DevOps team and back and forth takes a week, since they wont give access to the DB
+- Do you have an idea how to catch mistakes earlier before they hit QA? Some people had to work OT?
+Kevin hasnt been involved in that since QA does not have access to the projects he works on. However he is aware there were issues with 21mm. They had to rollout a hotfix.
+- CL asked what Kevin likes the most in the role? Kevin likes the team and people. Not a Job resp that you like? Its the same tasks, 
+What do you think will challenge you? Learning new stuff, one of the new projects is around KAFKA streams and it would be interesting to work as its a different style of coding
+CL mentioned that we dont want him bored. Kevin is not sure if thats something we would be able to control that... 
+Toyota likes all their services built on the same Architecture. 
+- Questions: No Questions.
+Kevin joined the luncheon and had to leave and rejoin. It's too early for them. SA and CL are planning a luncheon in CA timezone. 
+CL is your calendar in Teams updated? It's normally updated barring last minutes changes and whole day meetings
+SA thanked Kevin for the BiWeekly reports
+Any Vacation? His dad flew to HK for a funeral. 
+
+===================
+Paul Woo Bin
+------------
+Pretty good, busy 2past 2 weeks n a new project.
+Writing a service similar to ToyoFax, docs are ready and just started Dev this week. New Technologies, the sae that they have been using.
+Dealer appt is on maintenance mode, with 2 people allocated to fix bugs/code defects.
+Working closing with the Tech Lead on the ground work for the team to start dev. Exp to go live early September - Good estimate with dependancies from external sources. (Enterprise for rental)
+SA thanked Paul for the BiWeekly report and it looks great. Export list in pdf format is a new feature that he used.
+Overall everything is fine, and Paul feels it would be better to go back to office. He says not until the end of the year.
+WFH is getting better that when he first started. He prefers working on new tasks rater than the same tasks. NEW Toolstack, different project, different position. Paul likes working on the backend more, and soemthing new. 
+IF YOU NEED ANYTHING, REACH OUT.
+If ToyoFax a website? PreOwned vehicles status reports on. They are planning to implement for OneApp. 
+
+====================7/28/2020==================================
+Anthony
+-------
+Completed Dealer project, analyzing and investigating new resources/language for the new project.
+Seting up the Framework and next week coding on that, they have different tasks for the ToyoFax. New projects will help the team improve their coding skills.
+Are you going to maintain the old project or work on only the new project? Can jump in on immediate requirement.
+WFH Balance: Much better right now, getting used to WFH
+Do you prefer home/office? Prefers wfh more comfortable and productive. Can focus more on the work.
+Workflow: Are you enjoying yourself in the position? Yes he is enjoying. The new project is challenging and he is learning new stuff.
+No Issues: Are we going to WFH through 2020 - No official news as yet. He terminated his lease in Irvine and would like to plan his stay based on the anticipated plan.
+
+
+
+====================7/29/2020===========================================
+ 
+Pranav
+------
+Working on new integration with 21MM, a bit more busy than normal. Creating seperate repository for 21mm
+Has heard about the ToyoFax and. At CCPA we get info from companies related to consumer, 21mm is one of the companies not integrated. 
+Their data will be hanled differently. 
+WFH: Going well, more productive less distractions.
+Onsite: Based on Manager's opinion not until 2021. No official news, Sept is still evaluation.
+Luncheon was fun, SA will setup one for CA. SA planning on a Game Night. 
+Question/Concerns: how promotions work? Structure is different from other companies. Matters on the contract end date & project needs. Go to the hiring manager and discuss potential increase; 
+Have we made an exception to reevaluate before the term? Based on the work he is been doing, he is doing a lot more. Starting on tasks and now is working on design and architecture. SA will connect with Carol and plan this... 
+Review rate and decide increase based on margins...
+When can I expect to hear back? Latest next wednesday? 
+How is the performance review part going to be addressed? Talk to Carol, basically speaking with Siva.
+Next Steps: 
+No one on his team is from OP - 
+He is open to feedback on the weekly report - 
+
+ 
+
+Bi-Weekly Touchbase 07/27/2020
+------------
+Current Project: Paul has been busy for the past 2 weeks working on the new project ToyoFax. The documents are ready and just started development this week. The Dealer project is on maintenance mode, with 2 people allocated to fix bugs/code defects. He is working closing with the Tech Lead on the required ground work for the team to begin development. This project is expected to go live early September, with dependancies from external sources. They are also planning to implement on the OneApp. He prefers working on new tasks, toolstack, and different projects. 
+
+Onsite: Overall everything is fine, and Paul feels it would be better to go back to office.
+WFH: Paul feels wfh is getting better than when he first started.
+
+
+
+
+
+
